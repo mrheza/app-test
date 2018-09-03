@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 local edit
-=======
 server edit
->>>>>>> f584e28e83a850e61229756b6702463f1d5b191e
